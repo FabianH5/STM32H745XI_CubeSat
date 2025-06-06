@@ -1,0 +1,11 @@
+../Core/Src/sh2_hal.c:13:6:SH2_HAL_Setup	24	static
+../Core/Src/sh2_hal.c:18:17:getTimeUs	16	static
+../Core/Src/sh2_hal.c:23:12:open	16	static
+../Core/Src/sh2_hal.c:34:13:close	16	static
+../Core/Src/sh2_hal.c:39:12:read	32	static
+../Core/Src/sh2_hal.c:50:12:write	32	static
+../Core/Src/sh2_hal.c:58:12:sh2_hal_get	4	static
+../Core/Src/sh2_hal.c:67:6:IMU_Init	32	static
+../Core/Src/sh2_hal.c:80:6:IMU_Service	8	static
+../Core/Src/sh2_hal.c:84:13:sensorHandler	96	static
+../Core/Src/sh2_hal.c:113:6:Tare	8	static
